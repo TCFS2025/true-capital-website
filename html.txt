@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>True Capital Finance Solution</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .header {
+            background-color: #004080;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            margin: 20px;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .button {
+            display: inline-block;
+            background: #004080;
+            color: white;
+            padding: 10px 20px;
+            margin-top: 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        True Capital Finance Solution
+    </div>
+
+    <div class="container">
+        <h2>Welcome to True Capital Finance Solution</h2>
+        <p>We provide financial services to help you achieve your business goals.</p>
+
+        <h3>Our Services</h3>
+        <ul>
+            <li>🏡 Home Loan</li>
+            <li>🏢 Loan Against Property</li>
+            <li>💼 Business Loan</li>
+            <li>🔄 OD Loan</li>
+            <li>💰 Working Capital</li>
+        </ul>
+
+        <h3>Contact Us</h3>
+        <p>📍 514, 5th Floor, Hill Town Landmark, Opp-Das Khaman, Nikol-Naroda Road, Nikol, Ahmedabad</p>
+        <p>📞 95588 86661</p>
+
+        <a href="tel:9558886661" class="button">Call Now</a>
+    </div>
+
+</body>
+</html>
